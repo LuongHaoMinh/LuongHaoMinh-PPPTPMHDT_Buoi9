@@ -1,0 +1,13 @@
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\LuongHaoMinh_1150080066_Buoi9.csproj.AssemblyReference.cache
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\LuongHaoMinh_1150080066_Buoi9.Properties.Resources.resources
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\LuongHaoMinh_1150080066_Buoi9.csproj.GenerateResource.cache
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\LuongHaoMinh_1150080066_Buoi9.csproj.CoreCompileInputs.cache
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\bin\Debug\LuongHaoMinh_1150080066_Buoi9.exe.config
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\bin\Debug\LuongHaoMinh_1150080066_Buoi9.exe
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\bin\Debug\LuongHaoMinh_1150080066_Buoi9.pdb
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\_LuongHaoMinh_1150080066_Buoi9.Form1.resources
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\LuongHaoMinh_1150080066_Buoi9.exe
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\LuongHaoMinh_1150080066_Buoi9.pdb
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\_LuongHaoMinh_1150080066_Buoi9.Form2.resources
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\_LuongHaoMinh_1150080066_Buoi9.Form3.resources
+D:\PPPTPMHDT\LuongHaoMinh_1150080066_Buoi9\obj\Debug\_LuongHaoMinh_1150080066_Buoi9.Form4.resources
